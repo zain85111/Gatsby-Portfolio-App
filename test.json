@@ -1,0 +1,14 @@
+{
+    "productSuggestionData": {
+        "user_id": "number",
+        "userSchedule":{
+            "noOfDays":"number"
+        },
+        "frequentPurchases":[
+            {
+                "productid":"number",
+                "noOfpurcharse":"number"
+            }
+        ]
+    }
+}

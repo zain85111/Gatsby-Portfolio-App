@@ -1,0 +1,13 @@
+---
+title: Todo App
+stack: HTML, CSS & JS
+slug: todo-app
+date: 2021-05-10T100:00:00+00:00
+thumb: ../images/todoImg.jpg
+featured: ../images/todoImg.jpg
+---
+
+**Todo App**, dolor sit amet consectetur adipisicing elit. Nostrum harum tenetur rem nihil voluptates minus, ut dolores fuga magnam itaque perferendis similique laborum ducimus reiciendis quae veniam. Consequatur, dolorum eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta possimus voluptate unde provident ullam magnam modi ipsam nobis assumenda quia, in corporis aut iste harum impedit architecto. Id, consectetur? Quaerat.Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum harum tenetur rem nihil voluptates minus, ut dolores fuga magnam itaque perferendis similique laborum ducimus reiciendis quae veniam. Consequatur, dolorum eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta possimus voluptate unde provident ullam magnam modi ipsam nobis assumenda quia, in corporis aut iste harum impedit architecto. Id, consectetur? Quaerat.Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum harum tenetur rem nihil voluptates minus, ut dolores fuga magnam itaque perferendis similique laborum ducimus reiciendis quae veniam. Consequatur, dolorum eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta possimus voluptate unde provident ullam magnam modi ipsam nobis assumenda quia, in corporis aut iste harum impedit architecto. Id, consectetur? Quaerat.Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum harum tenetur rem nihil voluptates minus, ut dolores fuga magnam itaque perferendis similique laborum ducimus reiciendis quae veniam. Consequatur, dolorum eaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta possimus voluptate unde provident ullam magnam modi ipsam nobis assumenda quia, in corporis aut iste harum impedit architecto. Id, consectetur? Quaerat.
+
+### My Todo App
+amet consectetur adipisicing elit. Laboriosam possimus tempora doloribus rerum repellendus deserunt neque libero quis debitis accusamus molestias reiciendis culpa repellat, ullam, asperiores optio mollitia exercitationem consequatur! Est amet accusantium nobis eligendi voluptas adipisci enim exercitationem odio consectetur eveniet voluptate error voluptatem vero dicta, harum quisquam placeat quidem voluptates perspiciatis itaque voluptatum. Harum id dolores et quisquam. Minima non aperiam quam quisquam, eos sapiente qui dignissimos vel, eius quo repellendus omnis modi totam cupiditate ipsam praesentium consequuntur recusandae dolore libero maiores unde. Eius quam fugiat provident accusamus nihil laboriosam blanditiis doloremque iusto! Vero facere maiores assumenda recusandae.
